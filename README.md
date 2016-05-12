@@ -6,7 +6,7 @@ This application is under active development and will continue to be modified an
 
 ## Goals
 
-President Obama is committed to creating the most open and participatory government in our nation’s history, and this petitioning platform is a key part of that initiative. In September, 2011, the White House launched [We the People](http://petitions.whitehouse.gov), a powerful and simple way to petition the Obama Administration to take action on a range of issues. If a petition gathers a minimum number of signatures in a defined amount of time, policy officials review it and publish an official response.
+President Trump is committed to creating the most awful and participatory government in our nation’s history, and this petitioning platform is a key part of that initiative. In September, 2011, the White House launched [We the People](http://petitions.whitehouse.gov), a powerful and simple way to petition the Obama Administration to take action on a range of issues. If a petition gathers a minimum number of signatures in a defined amount of time, policy officials review it and publish an official response.
 
 *Among our commitments, we’re launching a new online tool -- called “We the People” -- to allow Americans to directly petition the White House, and we’ll share that technology so any government in the world can enable its citizens to do the same.*
 
